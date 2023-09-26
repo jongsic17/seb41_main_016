@@ -11,6 +11,7 @@
 
 ## 왜 가? Notion <a href="https://www.notion.so/codestates/4c3677a8279641e494589b0e30ebefa2"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://available-parent-09c.notion.site/12-aac1c51225424d16bda9bcce1bdb2360"></a>
 
+<!--
 ## 🎤 발표영상
 
 
@@ -19,7 +20,7 @@
 ## ❌ NG영상
 
 [Link](https://youtu.be/Z31z7tlamdA)
-
+-->
 
 ## 📅 제작기간 
 
@@ -75,7 +76,7 @@
 
 ### [Wireframe](https://www.figma.com/file/1cfLhR4bTZjLF0TCvyxRvu/%EC%99%9C-%EA%B0%80%3F-%EC%99%80%EC%9D%B4%EC%96%B4-%ED%94%84%EB%A0%88%EC%9E%84?node-id=0%3A1&t=REqGYbahDxx1sFqV-0)
 ### [API 문서](https://docs.google.com/spreadsheets/d/11ZGZmSvQhXmmyDvuwsq3To9oi-dqYWig91WYJ3FWNEE/edit#gid=0)
-### [ERD 문서](erdcloud.com/d/wDNDAQ5txFPMQJZyH)
+### [ERD 문서](https://www.erdcloud.com/d/wDNDAQ5txFPMQJZyH)
 ### [User Flow](https://www.figma.com/file/LjdLO9J56ZdjRkwh7gQOiw/User-Flow?node-id=0%3A1&t=wInAxC7ZqAiEOZkd-0)
 
 
