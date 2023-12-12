@@ -40,6 +40,21 @@
   * 박종식 🤵
   * 이호세아 🤵🏻‍♂️
 
+## 🔧Demo
+
+|||
+|:---:|:---:|
+|**회원가입**|**소셜 로그인**|
+|![회원가입](https://github.com/jongsic17/seb41_main_016/assets/57285707/41489a40-4241-48d7-9510-46511bf62303)|![소셜 로그인](https://github.com/jongsic17/seb41_main_016/assets/57285707/8b542d91-ad47-4d80-8342-32079dfd5316)|
+|**마이페이지**|**위시 리스트**|
+|![마이페이지](https://github.com/jongsic17/seb41_main_016/assets/57285707/d43cab19-8000-46f2-af8a-34e6838fae12)|![위시위시리스트](https://github.com/jongsic17/seb41_main_016/assets/57285707/8a13efd7-c5dc-4f0a-ad05-d19188089825)|
+|**홈 화면**|**검색 바**|
+|![홈화면](https://github.com/jongsic17/seb41_main_016/assets/57285707/b4f8e1f3-fb0d-4b77-b3e0-b688c092e8ff)|![검색바](https://github.com/jongsic17/seb41_main_016/assets/57285707/39e007d6-4076-4a32-a8af-7c7b95daf004)|
+|**호텔 리스트**|**호텔 상세페이지**|
+|![호텔 리스트](https://github.com/jongsic17/seb41_main_016/assets/57285707/0f0c644a-800b-4e36-bd34-98a613e032e7)|![호텔 디테일](https://github.com/jongsic17/seb41_main_016/assets/57285707/15125312-5269-4637-86e8-626ba380c43e)|
+|**호텔 예약**|**리뷰 작성**|
+|![예약](https://github.com/jongsic17/seb41_main_016/assets/57285707/6464b012-ade7-466e-9e79-d638eae26584)|![리뷰 작성](https://github.com/jongsic17/seb41_main_016/assets/57285707/e73f252e-6dd5-40b3-a56e-ba310952f841)|
+
 ### 🔧 사용 기술 [FE]
 
 ![리액트](https://user-images.githubusercontent.com/97425158/161745107-cc062718-9c52-4446-8f14-9faba0b9dea7.svg)
